@@ -64,3 +64,6 @@ Framework: echo(Go web framework), gRPC, flask, Ruby on Rails, Vue.js
 Database: MySQL, PostgreSQL, Amazon Aurora, DynamoDB, Aerospike, Redis, MongoDB, RocksDB, CockroachDB  
 MPP/DataWarehouse: BigQuery, Redshift, Presto, Hive, Athena  
 Middleware/Infrastructure: AWS, GCP, CircleCI, Kubernetes, Hadoop, Spark, Fluentd, Redash, Nginx, H2o  
+
+## appendix
+[StrengthsFinder](https://gist.github.com/myouju/5ceba5ff1bef0085724e7119f8b925c5) * jp only
