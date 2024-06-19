@@ -3,17 +3,27 @@
 Email: y@youju.jp
 
 ## Summary
-- 6 years of experience in building/operating data analytics infrastructure and data flow
-- 5 years of experience in developing batches and APIs (Rest, gRPC) in a microservice architecture in Go and Python
-- Leadership experience(up to 5 team members)
+- 8 years of experience in building/operating data analytics infrastructure and data flow
+- 9 years of experience in developing batches and APIs (Rest, gRPC) in a microservice architecture in Go and Python
+- Leadership experience(up to 20 members)
 - Native Japanese
 - Reading/Writing English
 
 ## Work Experience
-### BHI, Inc. Tokyo, Japan Mar 2020 - Current
-Team Leader - Backend Engineer
+### Knowledge Work, Inc. Tokyo, Japan Jan 2023 - Current
+Software and Data Engineer
+- Developing web services with Golang
+- Improving API latency and tuning database
+- ETL optimization, design, coding and data engineering process tuning using Python, dbt, and BigQuery
+
+### BHI, Inc. Tokyo, Japan Mar 2020 - Dec 2022
+Chief Technology Officer - Backend and Data Engineer
 - Leading the Core API team and managed the release schedule of the API to improve quality of service
 - Reimplemented with Go(gRPC) and rearchitected with GCP(GKE, Cloud PubSub)
+- Developing web services with Vue3 and Go(gRPC)
+- Managing members and projects
+- ETL optimization, design, coding and data engineering process tuning using Python, dbt, and BigQuery
+- Negotiated with customers on technical and security specifications
 
 ### 400F, Inc. Tokyo, Japan May 2018 - Oct 2019
 Chief Technology Officer - Full-Stack Engineer
@@ -63,7 +73,7 @@ Languages: Go, Python, Ruby, Typescript, SQL, Java(Hadoop MapReduce)
 Framework: echo(Go web framework), gRPC, flask, Ruby on Rails, Vue.js  
 Database: MySQL, PostgreSQL, Amazon Aurora, DynamoDB, Aerospike, Redis, MongoDB, RocksDB, CockroachDB  
 MPP/DataWarehouse: BigQuery, Redshift, Presto, Hive, Athena  
-Middleware/Infrastructure: AWS, GCP, CircleCI, Kubernetes, Hadoop, Spark, Fluentd, Redash, Nginx, H2o  
+Middleware/Infrastructure: AWS, GCP, dbt, GitHub Actions, CircleCI, Kubernetes, Hadoop, Spark, Fluentd, Redash, Nginx, H2o  
 
 ## appendix
 [StrengthsFinder](https://gist.github.com/myouju/5ceba5ff1bef0085724e7119f8b925c5) * jp only
